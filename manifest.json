@@ -1,0 +1,17 @@
+{
+  "name": "NostrKeys",
+  "short_name": "NostrKeys",
+  "description": "Convert Nostr keys between npub/nsec and hex formats",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e7490",
+  "theme_color": "#0e7490",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
